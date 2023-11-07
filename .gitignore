@@ -10,6 +10,9 @@
 
 # production
 /build
+/cover-letter-generator
+/dist
+#
 
 # misc
 .DS_Store
@@ -17,6 +20,11 @@
 .env.development.local
 .env.test.local
 .env.production.local
+.idea/.gitignore
+.idea/CLRReact.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/modules.xml
+.idea/vcs.xml
 
 npm-debug.log*
 yarn-debug.log*
